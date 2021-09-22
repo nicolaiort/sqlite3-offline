@@ -1,5 +1,5 @@
 # SQLite3 for offline environments - sqlite3-offline-next
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nicolaiort/sqlite3-offline-next/master/LICENSE)
+[![BSD-3 licensed](https://img.shields.io/github/license/nicolaiort/sqlite3-offline-next?style=for-the-badge)](https://raw.githubusercontent.com/nicolaiort/sqlite3-offline-next/master/LICENSE)
 
 > Bundled library for [SQLite3](https://github.com/mapbox/node-sqlite3) for offline deployments.
 > Zero dependencies, zero external HTTP downloads.
