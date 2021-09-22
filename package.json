@@ -1,5 +1,5 @@
 {
-  "name": "sqlite3-offline",
+  "name": "sqlite3-offline-next",
   "version": "5.0.2",
   "description": "Bundled SQLite3 library for offline environments but with modern node support",
   "main": "index.js",
