@@ -1,8 +1,8 @@
 # SQLite3 for offline environments - sqlite3-offline-next
 [![BSD-3 licensed](https://img.shields.io/github/license/nicolaiort/sqlite3-offline-next?style=for-the-badge)](https://raw.githubusercontent.com/nicolaiort/sqlite3-offline-next/master/LICENSE)
-![npm](https://img.shields.io/npm/v/sqlite3-offline-next?style=for-the-badge)
-![npm bundle size](https://img.shields.io/bundlephobia/min/sqlite3-offline-next?style=for-the-badge)
-![npm](https://img.shields.io/npm/dw/sqlite3-offline-next?style=for-the-badge)
+[![npm](https://img.shields.io/npm/v/sqlite3-offline-next?style=for-the-badge)](https://www.npmjs.com/package/sqlite3-offline-next)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/sqlite3-offline-next?style=for-the-badge)](https://www.npmjs.com/package/sqlite3-offline-next)
+[![npm](https://img.shields.io/npm/dw/sqlite3-offline-next?style=for-the-badge)](https://www.npmjs.com/package/sqlite3-offline-next)
 ![node-current](https://img.shields.io/node/v/sqlite3-offline-next?style=for-the-badge)
 ![forthebadge](https://img.shields.io/badge/fuck%20it-ship%20it-ff69b4?style=for-the-badge)
 ![security](https://img.shields.io/badge/security%20by-offline-lightgray?style=for-the-badge)
