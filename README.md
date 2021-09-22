@@ -1,7 +1,6 @@
 # SQLite3 for offline
 
 [![Build Status](https://travis-ci.org/DenisCarriere/sqlite3-offline.svg?branch=master)](https://travis-ci.org/DenisCarriere/sqlite3-offline)
-[![npm version](https://badge.fury.io/js/sqlite3-offline.svg)](https://badge.fury.io/js/sqlite3-offline)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/DenisCarriere/sqlite3-offline/master/LICENSE)
 
 <!-- Line Break -->
@@ -12,6 +11,8 @@
 > Zero dependencies, zero external HTTP downloads.
 >
 > After version upgrade to v5.0.0, Offical [SQLite3](https://github.com/mapbox/node-sqlite3) use Node-API to build native addons so that we can use one prebuild native library support across versions of Node.js. But Unfortunately, some old Node release and Electron version has been end of support.
+
+Based on the awesome work of [DenisCarriere](https://github.com/DenisCarriere) and [Howe Huang](https://github.com/shihuihzh) and just forked + published to by [me](https://github.com/nicolaiort).
 
 ## Install
 
