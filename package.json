@@ -39,6 +39,9 @@
     "windows",
     "electron"
   ],
+  "engines": {
+    "node": ">=14"
+  },
   "dependencies": {},
   "devDependencies": {
     "decompress": "^4.2.0",
