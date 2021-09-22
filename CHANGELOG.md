@@ -1,5 +1,10 @@
 # Changelog
 
+## 5.0.2
+
+- Support for new node versions
+- Now based on the sqlite3 Node-API
+
 ## 3.2.0 - 2017-10-23
 
 - Bump to minor version instead of dev versions
