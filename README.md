@@ -1,4 +1,4 @@
-# SQLite3 for offline
+# SQLite3 for offline environments - sqlite3-offline-next
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/DenisCarriere/sqlite3-offline/master/LICENSE)
 
 > Bundled library for [SQLite3](https://github.com/mapbox/node-sqlite3) for offline deployments.
@@ -8,22 +8,22 @@ Based on the awesome work of [DenisCarriere](https://github.com/DenisCarriere) a
 
 After version upgrade to v5.0.0, Offical [SQLite3](https://github.com/mapbox/node-sqlite3) use Node-API to build native addons so that we can use one prebuild native library support across versions of Node.js. But Unfortunately, some old Node release and Electron version has been end of support.
 
-## Install
+## Install 🛠
 
 ```bash
 # Install as normal package
-npm install --save sqlite3-offline
-yarn sqlite3-offline
+npm install --save sqlite3-offline-next
+yarn sqlite3-offline-next
 
 # Install as sqlite3 alias
-npm install --save sqlite3@npm:sqlite3-offline
-yarn add sqlite3@npm:sqlite3-offline
+npm install --save sqlite3@npm:sqlite3-offline-next
+yarn add sqlite3@npm:sqlite3-offline-next
 ```
 
-## Quickstart
+## Quickstart 🚀
 
 ```javascript
-const sqlite3 = require('sqlite3-offline').verbose()
+const sqlite3 = require('sqlite3-offline-next').verbose()
 var db = new sqlite3.Database('./dev.db')
 
 db.serialize(function() {
