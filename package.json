@@ -17,14 +17,17 @@
   "author": "Denis Carriere <@DenisCarriere>",
   "contributors": [
     {
-      "name": "Nicolai Ort",
-      "email": "info@nicolai-ort.com",
-      "url": "https://nicolai-ort.com"
+      "name": "Denis Carriere <@DenisCarriere>",
+      "url": "https://github.com/DenisCarriere"
     },
     {
       "name": "Howe Huang",
-      "email": "shihuihzh@gmail.com",
       "url": "https://github.com/shihuihzh"
+    },
+    {
+      "name": "Nicolai Ort",
+      "email": "info@nicolai-ort.com",
+      "url": "https://github.com/nicolaiort"
     }
   ],
   "license": "MIT",
