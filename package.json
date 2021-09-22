@@ -1,7 +1,7 @@
 {
   "name": "sqlite3-offline",
   "version": "5.0.2",
-  "description": "Bundled SQLite3 library for offline environments",
+  "description": "Bundled SQLite3 library for offline environments but with modern node support",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
@@ -15,6 +15,18 @@
     "update": "node ./scripts/update-binaries.js"
   },
   "author": "Denis Carriere <@DenisCarriere>",
+  "contributors": [
+    {
+      "name": "Nicolai Ort",
+      "email": "info@nicolai-ort.com",
+      "url": "https://nicolai-ort.com"
+    },
+    {
+      "name": "Howe Huang",
+      "email": "shihuihzh@gmail.com",
+      "url": "https://github.com/shihuihzh"
+    }
+  ],
   "license": "MIT",
   "keywords": [
     "sqlite3",
