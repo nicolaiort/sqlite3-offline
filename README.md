@@ -1,10 +1,5 @@
 # SQLite3 for offline
-
-[![Build Status](https://travis-ci.org/DenisCarriere/sqlite3-offline.svg?branch=master)](https://travis-ci.org/DenisCarriere/sqlite3-offline)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/DenisCarriere/sqlite3-offline/master/LICENSE)
-
-<!-- Line Break -->
-[![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 > Bundled library for [SQLite3](https://github.com/mapbox/node-sqlite3) for offline deployments.
 >
@@ -24,7 +19,7 @@ $ npm install --save sqlite3-offline
 
 ```javascript
 const sqlite3 = require('sqlite3-offline').verbose()
-var db = new sqlite3.Database(':memory:')
+var db = new sqlite3.Database('./dev.db')
 
 db.serialize(function() {
   db.run("CREATE TABLE lorem (info TEXT)")
