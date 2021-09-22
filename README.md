@@ -12,7 +12,13 @@ Based on the awesome work of [DenisCarriere](https://github.com/DenisCarriere) a
 ## Install
 
 ```bash
-$ npm install --save sqlite3-offline
+# Install as normal package
+npm install --save sqlite3-offline
+yarn sqlite3-offline
+
+# Install as sqlite3 alias
+npm install --save sqlite3@npm:sqlite3-offline
+yarn add sqlite3@npm:sqlite3-offline
 ```
 
 ## Quickstart
