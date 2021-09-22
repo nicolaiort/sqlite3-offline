@@ -43,11 +43,16 @@ db.serialize(function() {
 db.close()
 ```
 
+
 ## Supported Platforms
 
 - Windows x64 & ia32
 - MacOSX x64
 - Linux x64
+
+### Untested
+> These plattforms should work but I haven't tested them yet...
+
 - Electron (Version below v5.0.0)
   - v1.5
   - v1.6
@@ -62,16 +67,23 @@ db.close()
   - v8.1
   - v8.2
 
-## Supported NodeJS Release
-Version after v5.0.0
+## Supported NodeJS Releases
+
+### Tested (only for v5.0.0 and up)
+
 - Node.js v16
 - Node.js v15
 - Node.js v14
+
+### Untested
+> These releases should work but I haven't tested them yet...
+
+Version v5.0.0 and up
 - Node.js v13
 - Node.js v12
 - Node.js v11
 
-Version below v5.0.0
+Versions below v5.0.0
 - Node.js v13
 - Node.js v12
 - Node.js v11
@@ -82,10 +94,6 @@ Version below v5.0.0
 - Node.js v6
 - Node.js v5
 - Node.js v4
-
-## Related
-
-- [mbtiles-offline](https://github.com/DenisCarriere/mbtiles-offline)
 
 ## License
 
